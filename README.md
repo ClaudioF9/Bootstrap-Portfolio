@@ -61,12 +61,11 @@ The top nav bar will take you to the respective sections and the bottom footer w
 Clicking on the project images will take you to the site for that project.
 
 ## Link to website
-
+https://claudiof9.github.io/Bootstrap-Portfolio/
 
 
 ## Screenshot
-
-
+![Screenshot-Bootstrap-Portfolio-Project](https://user-images.githubusercontent.com/119876939/210452060-5e5e1d42-ab11-41db-96da-29bb99c004dc.png)
 
 ## Credits
 
