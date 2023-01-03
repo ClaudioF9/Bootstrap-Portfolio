@@ -1,17 +1,11 @@
 /* Navbar */
 
-
-
-
-
-
-
 .navbar{
     background-color: black !important;
 } 
 
 
-/* added styling to my Name */
+/* added styling to heading on top left */
 .navbar-brand{
     background-color: black;
     border: whitesmoke solid 5px;
@@ -27,17 +21,7 @@
     margin-right: 0 !important;
 }  
 
-/* .nav-item{
-
-    
-    
-    color: whitesmoke !important;
-    
-    font-size: 24px;
-}   */
-
-
-
+/* created hero section with my photo, my name and a random quote*/
 header.masthead {
     position: relative;
     width: 100%;
@@ -67,11 +51,18 @@ header.masthead .device-container .screen img {
     border-radius: 3px;
 }
 
+/* selfie styling */
+#selfie{
+    border-radius: 50%; !important
+    border: solid whitesmoke 10px; !important
+}
 
+/* full black bacground */
 body{
     background-color: black; !important
 }
 
+/* styling for my about me section*/
 .aboutmeDeets{
     color: whitesmoke;
     border: whitesmoke solid 5px;
@@ -82,7 +73,7 @@ body{
 
 }
 
-.projectLabel{
+/* .projectLabel{
     background-color: black;
     border: whitesmoke solid 5px;
     border-radius: 25px;
@@ -90,8 +81,9 @@ body{
     padding: 5px;
     font-size: 12px;
     
-}
+} */
 
+/* styling for contact details */
 .deets{
     background-color: black;
     border: whitesmoke solid 5px;
@@ -101,6 +93,7 @@ body{
     font-size: 20px;
 }
 
+/* styling for the different section labels */
 .labels{
     background-color: black;
     border: whitesmoke solid 5px;
@@ -116,10 +109,7 @@ body{
     padding: 10px;
 }
 
-#selfie{
-    border-radius: 50%; !important
-    border: solid whitesmoke 10px; !important
-}
+
 
 /* .card{
     border-radius: 35px;
@@ -128,7 +118,7 @@ body{
 
 /* card hover */
 
-.card{
+/* .card{
     border-radius: 4px;
     background: #fff;
     box-shadow: 0 6px 10px rgba(0,0,0,.08), 0 0 6px rgba(0,0,0,.05);
@@ -140,7 +130,7 @@ body{
 .card:hover{
      transform: scale(1.05);
   box-shadow: 0 10px 20px rgba(0,0,0,.12), 0 4px 8px rgba(0,0,0,.06);
-}
+} */
 
 .projectSize{
     margin-top: 20px; !important */
