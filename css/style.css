@@ -1,0 +1,150 @@
+.navbar{
+    background-color: black !important;
+}
+
+
+/* added styling to my Name */
+.navbar-brand{
+    background-color: black;
+    border: whitesmoke solid 5px;
+    border-radius: 25px;
+    color: whitesmoke !important;
+    padding: 5px;
+    font-size: 24px;
+}
+
+/* moved navbar links to right */
+.navbar-nav {
+    margin-left: auto;
+    margin-right: 0 !important;
+}
+
+.navbar-light ,navbar-toggler-icon {
+    background-image: url(/images/hamburger-red.png)!important;
+}
+
+/* need to either change the icon to a white hamburger? */
+/* .navbar-toggler-icon{
+    color: whitesmoke !important;
+} */
+
+.nav-item{
+    background-color: black;
+    border: whitesmoke solid 5px;
+    border-radius: 25px;
+    color: whitesmoke !important;
+    padding: 5px;
+    font-size: 20px;
+}
+
+/* .rowInside{
+    justify-content: center; !important
+} */
+
+header.masthead {
+    position: relative;
+    width: 100%;
+    padding-top: 150px;
+    padding-bottom: 100px;
+    color: whitesmoke;
+    background: url("../images/codingflat.jpg");
+}
+
+header.masthead .header-content {
+    max-width: 500px;
+    margin-bottom: 100px;
+    text-align: center;
+}
+
+header.masthead .header-content h1 {
+    font-size: 30px;
+}
+
+header.masthead .device-container {
+    max-width: 325px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+header.masthead .device-container .screen img {
+    border-radius: 3px;
+}
+
+
+body{
+    background-color: black; !important
+}
+
+.aboutmeDeets{
+    color: whitesmoke;
+    border: whitesmoke solid 5px;
+    border-radius: 25px;
+    padding:15px;
+    font-size: 20px;
+    font-family: sans-serif;
+
+}
+
+.projectLabel{
+    background-color: black;
+    border: whitesmoke solid 5px;
+    border-radius: 25px;
+    color: whitesmoke !important;
+    padding: 5px;
+    font-size: 12px;
+    
+}
+
+.deets{
+    background-color: black;
+    border: whitesmoke solid 5px;
+    border-radius: 35px;
+    color: whitesmoke !important;
+    padding: 10px;
+    font-size: 20px;
+}
+
+.labels{
+    background-color: black;
+    border: whitesmoke solid 5px;
+    border-radius: 35px;
+    margin-bottom: 100px;
+    color: whitesmoke !important;
+    padding: 15px;
+    font-size: 24px;
+}
+
+/* adjusting margins of rows */
+.container-fluid{
+    padding: 10px;
+}
+
+#selfie{
+    border-radius: 50%; !important
+    border: solid whitesmoke 10px; !important
+}
+
+/* .card{
+    border-radius: 35px;
+    padding: 10px;
+} */
+
+.projectSize{
+    margin-top: 20px; !important */
+    margin-bottom: 20px; !important
+    /* /* padding: 10px; !important */
+}
+
+.aboutmeSize{
+    margin-top: 20px;
+    margin-bottom: 30px;
+}
+.workSize{
+    /* margin-top: 20px; */
+    margin-bottom: 20px;
+}
+
+.contactmeSize{
+    margin-top: 20px;
+    margin-bottom: 30px;
+}
