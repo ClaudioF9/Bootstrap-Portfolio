@@ -1,5 +1,4 @@
 /* Navbar */
-
 .navbar{
     background-color: black !important;
 } 
@@ -115,13 +114,9 @@ body{
 
 
 
-/* .card{
-    border-radius: 35px;
-    padding: 10px;
-} */
 
-/* card hover */
 
+/* card sizing and styling */
 .card{
     border-radius: 4px;
     background: #fff;
@@ -141,6 +136,7 @@ body{
     box-shadow: 0 0 5px 5px red; 
 }
 
+/* adjusting margins */
 .projectSize{
     margin-top: 30px; !important
     margin-bottom: 30px; !important

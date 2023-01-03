@@ -61,12 +61,12 @@ The top nav bar will take you to the respective sections and the bottom footer w
 Clicking on the project images will take you to the site for that project.
 
 ## Link to website
-Will be added shortly
+
 
 
 ## Screenshot
 
-Will be added shortly
+
 
 ## Credits
 
